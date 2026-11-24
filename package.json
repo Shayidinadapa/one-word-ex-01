@@ -1,0 +1,1 @@
+{"description":"One Word From Your Ex — a make.fun program/v1 entry that writes a single word to /output/entry.txt","license":"MIT","name":"one-word-ex-01","private":true,"scripts":{"start":"node --experimental-strip-types main.ts"},"type":"module","version":"1.0.0"}
